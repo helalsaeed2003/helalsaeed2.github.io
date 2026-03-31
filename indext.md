@@ -16,6 +16,9 @@ This site collects our project materials, notes, and deliverables.
 - [Video Demo](#)
 ## Results
 So far we have been able to make proper 3D CAD models using Inventor. We began to 3D printing. Also we have to 
+
+
+
 ![image](2.jpg) 
 [image](2.jpg)
 ## Bibliography
