@@ -15,6 +15,7 @@ This site collects our project materials, notes, and deliverables.
 - [Shared Folder](#)
 - [Video Demo](#)
 ## Results
+So far we have been able to make proper 3D CAD models using Inventor. 
 ![image](2.jpg)
 [image](2.jpg)
 ## Bibliography
