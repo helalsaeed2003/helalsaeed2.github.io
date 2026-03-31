@@ -1,4 +1,4 @@
-# Team Leen Website
+# Leen's Team Website
 ## Team Members
 - Helal Saeed
 - Mohamed Shibika
