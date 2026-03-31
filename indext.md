@@ -15,6 +15,7 @@ This site collects our project materials, notes, and deliverables.
 - [Shared Folder](#)
 - [Video Demo](#)
 ## Results
+![image](2.jpg)
 [image](2.jpg)
 ## Bibliography
 - Source 1
