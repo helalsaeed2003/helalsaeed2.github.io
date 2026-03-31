@@ -6,7 +6,7 @@
 ## Project Goals
 Do the thing that moves the thing from one box to the other box.
 ## Background
-Baguette
+
 This site collects our project materials, notes, and deliverables.
 ## Project Resources
 - [Project Proposal](#)
@@ -15,7 +15,7 @@ This site collects our project materials, notes, and deliverables.
 - [Shared Folder](#)
 - [Video Demo](#)
 ## Results
-Write 2–4 sentences explaining what your project is about and what you found.
+[image](2.jpg)
 ## Bibliography
 - Source 1
 - Source 2
