@@ -6,6 +6,7 @@
 ## Project Goals
 Do the thing that moves the thing from one box to the other box.
 ## Background
+Baguette
 This site collects our project materials, notes, and deliverables.
 ## Project Resources
 - [Project Proposal](#)
