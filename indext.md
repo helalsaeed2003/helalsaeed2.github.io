@@ -15,7 +15,7 @@ This site collects our project materials, notes, and deliverables.
 - [Shared Folder](https://drive.google.com/drive/folders/1Kp-NqhnS5nhO7xfVu5AdcwEv6LJD91_h)
 - [Video Demo](#)
 ## Results
-So far we have been able to make proper 3D CAD models using Inventor. We began to 3D printing. Also we have to 
+So far, we have been able to make proper 3D CAD models using Inventor. We began 3D printing some parts. Also, we have to complete the wiring.
 
 
 
@@ -24,5 +24,5 @@ So far we have been able to make proper 3D CAD models using Inventor. We began t
 
 [image](2.jpg)
 ## Bibliography
-- Source 1
-- Source 2
+- [Sources](https://docs.google.com/spreadsheets/d/1oZPbHJFor5isyQZemf2N2B_xhyIgF2lcH3TPebyBVM8/edit?usp=sharing)
+  
