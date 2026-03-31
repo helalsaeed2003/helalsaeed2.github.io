@@ -9,7 +9,7 @@ Do the thing that moves the thing from one box to the other box.
 This site collects our project materials, notes, and deliverables.
 ## Project Resources
 - [Project Proposal](#)
-- [Notebook 1]((#)(https://docs.google.com/document/d/17Knve9Bmf9t-QyPrCE_PLXfzNNt0p070c6GXr6645qc/edit?usp=drive_link))
+- [Notebook 1]((#)https://docs.google.com/document/d/17Knve9Bmf9t-QyPrCE_PLXfzNNt0p070c6GXr6645qc/edit?usp=drive_link)
 - [Slides](#)
 - [Shared Folder](#)
 - [Video Demo](#)
