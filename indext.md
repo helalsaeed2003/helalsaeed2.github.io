@@ -1,14 +1,15 @@
-# My Project Website
+# Team Leen Website
 ## Team Members
-- Your Name
-- Partner Name
-## Project Question
-How can we design and test a simple project website using GitHub Pages?
+- Helal Saeed
+- Mohamed Shibika
+- Leen Maher
+## Project Goals
+Do the thing that moves the thing from one box to the other box.
 ## Background
 This site collects our project materials, notes, and deliverables.
 ## Project Resources
 - [Project Proposal](#)
-- [Notebook 1](#)
+- [Notebook 1]((https://docs.google.com/document/d/17Knve9Bmf9t-QyPrCE_PLXfzNNt0p070c6GXr6645qc/edit?usp=drive_link))
 - [Slides](#)
 - [Shared Folder](#)
 - [Video Demo](#)
